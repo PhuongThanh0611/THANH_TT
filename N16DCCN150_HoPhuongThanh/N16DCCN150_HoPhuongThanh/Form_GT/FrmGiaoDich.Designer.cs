@@ -56,7 +56,7 @@
             // btnGD
             // 
             this.btnGD.Font = new System.Drawing.Font("Tahoma", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnGD.Location = new System.Drawing.Point(289, 424);
+            this.btnGD.Location = new System.Drawing.Point(897, 404);
             this.btnGD.Name = "btnGD";
             this.btnGD.Size = new System.Drawing.Size(158, 38);
             this.btnGD.TabIndex = 38;
@@ -70,7 +70,7 @@
             this.cbbLoaiLenh.Items.AddRange(new object[] {
             "Lệnh khớp liên tục (LO)",
             "Lệnh khớp định kì (ATC,ATO)"});
-            this.cbbLoaiLenh.Location = new System.Drawing.Point(302, 237);
+            this.cbbLoaiLenh.Location = new System.Drawing.Point(910, 217);
             this.cbbLoaiLenh.Name = "cbbLoaiLenh";
             this.cbbLoaiLenh.Size = new System.Drawing.Size(243, 24);
             this.cbbLoaiLenh.TabIndex = 35;
@@ -78,7 +78,7 @@
             // txtMA
             // 
             this.txtMA.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
-            this.txtMA.Location = new System.Drawing.Point(302, 198);
+            this.txtMA.Location = new System.Drawing.Point(910, 178);
             this.txtMA.Name = "txtMA";
             this.txtMA.Size = new System.Drawing.Size(243, 22);
             this.txtMA.TabIndex = 34;
@@ -88,7 +88,7 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(188, 198);
+            this.label6.Location = new System.Drawing.Point(796, 178);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(50, 18);
             this.label6.TabIndex = 33;
@@ -98,7 +98,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(188, 238);
+            this.label5.Location = new System.Drawing.Point(796, 218);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(74, 18);
             this.label5.TabIndex = 32;
@@ -108,7 +108,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(187, 287);
+            this.label4.Location = new System.Drawing.Point(795, 267);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(74, 18);
             this.label4.TabIndex = 31;
@@ -118,7 +118,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(188, 321);
+            this.label2.Location = new System.Drawing.Point(796, 301);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(28, 18);
             this.label2.TabIndex = 30;
@@ -128,7 +128,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(187, 151);
+            this.label3.Location = new System.Drawing.Point(795, 131);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(105, 18);
             this.label3.TabIndex = 29;
@@ -138,7 +138,7 @@
             // 
             this.lbNgay.AutoSize = true;
             this.lbNgay.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbNgay.Location = new System.Drawing.Point(312, 151);
+            this.lbNgay.Location = new System.Drawing.Point(920, 131);
             this.lbNgay.Name = "lbNgay";
             this.lbNgay.Size = new System.Drawing.Size(42, 18);
             this.lbNgay.TabIndex = 28;
@@ -148,7 +148,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(187, 109);
+            this.label1.Location = new System.Drawing.Point(795, 89);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(158, 24);
             this.label1.TabIndex = 27;
@@ -158,7 +158,7 @@
             // 
             this.rbtBan.AutoSize = true;
             this.rbtBan.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rbtBan.Location = new System.Drawing.Point(402, 373);
+            this.rbtBan.Location = new System.Drawing.Point(1010, 353);
             this.rbtBan.Name = "rbtBan";
             this.rbtBan.Size = new System.Drawing.Size(89, 21);
             this.rbtBan.TabIndex = 40;
@@ -170,7 +170,7 @@
             // 
             this.rbtMua.AutoSize = true;
             this.rbtMua.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rbtMua.Location = new System.Drawing.Point(253, 373);
+            this.rbtMua.Location = new System.Drawing.Point(861, 353);
             this.rbtMua.Name = "rbtMua";
             this.rbtMua.Size = new System.Drawing.Size(92, 21);
             this.rbtMua.TabIndex = 39;
@@ -207,7 +207,7 @@
             0,
             0,
             0});
-            this.txtGia.Location = new System.Drawing.Point(302, 320);
+            this.txtGia.Location = new System.Drawing.Point(910, 300);
             this.txtGia.Name = "txtGia";
             this.txtGia.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
@@ -221,7 +221,7 @@
             0,
             0,
             0});
-            this.txtSoLuong.Location = new System.Drawing.Point(302, 283);
+            this.txtSoLuong.Location = new System.Drawing.Point(910, 263);
             this.txtSoLuong.Name = "txtSoLuong";
             this.txtSoLuong.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
@@ -232,7 +232,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(759, 545);
+            this.ClientSize = new System.Drawing.Size(1312, 545);
             this.Controls.Add(this.txtSoLuong);
             this.Controls.Add(this.txtGia);
             this.Controls.Add(this.rbtBan);
@@ -248,7 +248,7 @@
             this.Controls.Add(this.lbNgay);
             this.Controls.Add(this.label1);
             this.Name = "FrmGiaoDich";
-            this.Text = "FrmGiaoDich";
+            this.Text = "GIAO DỊCH";
             this.Load += new System.EventHandler(this.FrmGiaoDich_Load);
             ((System.ComponentModel.ISupportInitialize)(this.n16DCCN150_HoPhuongThanhDataSet)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.lENHDATBindingSource)).EndInit();
